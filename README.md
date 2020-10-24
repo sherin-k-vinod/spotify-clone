@@ -1,8 +1,11 @@
 This React js project aimed to make a clone of spotify app.
 
 1. include spotify auth for login
+
 2.fetch user playlist using spotify API
+
 3.have look and feel like spotify using material UI
+
 
 ## Available Scripts
 
