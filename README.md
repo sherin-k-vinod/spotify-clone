@@ -1,10 +1,14 @@
-This React js project aimed to make a clone of spotify app.
+## This React js project aimed to make a clone of spotify app.
 
 1. include spotify auth for login
 
 2.fetch user playlist using spotify API
 
 3.have look and feel like spotify using material UI
+
+4.Responsive design
+
+hosted on firebase : https://spotify-clone-5c338.web.app/
 
 
 ## Available Scripts
